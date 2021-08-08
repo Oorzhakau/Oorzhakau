@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander Oorzhak. Geologist ⚒ & Geotechnical Engineer⛏
 
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interesting DataScience and Machine Learning
 
 - 🌱 I’m currently learning Data science
 
