@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander Oorzhak. Geologist ⚒ & Geotechnical Engineer⛏
 
-- 👀 I’m interesting DataScience and Machine Learning
+- 👀 I’m interesting Python-development, DataScience and Machine Learning
 
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently learning Django framework and Data Science
 
-- 📫 How to reach me: you can write on oorzhakau@yandex.ru
+- 📫 How to reach me: you can write on oorzhakau@yandex.ru or telegram: @oorzhakau
