@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning Django framework and Data Science
 
-- 📫 How to reach me: you can write on oorzhakau@yandex.ru or telegram: @oorzhakau
+- 📫 How to reach me: you can write on email oorzhakau@yandex.ru or telegram @oorzhakau
