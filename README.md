@@ -7,3 +7,5 @@
 - 📫 How to reach me: you can write on email oorzhakau@yandex.ru or telegram @oorzhakau
 
 <h2> Github Stats </h2>
+
+[![OorzhakAU's GitHub stats](https://github-readme-stats.vercel.app/api?username=oorzhakau)](https://github.com/anuraghazra/github-readme-stats)
