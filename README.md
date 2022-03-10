@@ -8,4 +8,4 @@
 
 <h2> Github Stats </h2>
 
-[![OorzhakAU's GitHub stats](https://github-readme-stats.vercel.app/api?username=oorzhakau)](https://github.com/anuraghazra/github-readme-stats)
+[![OorzhakAU's GitHub stats](https://github-readme-stats.vercel.app/api?username=oorzhakau)](https://github.com/oorzhakau/github-readme-stats)
