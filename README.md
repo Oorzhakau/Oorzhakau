@@ -2,8 +2,6 @@
 
 - 👀 I’m interesting Python-development, DataScience and Machine Learning.
 
-- 🌱 I’m currently learning Django framework. For free time I'm reading books about Data Science.
-
 - 📫 How to reach me: you can write on email oorzhakau@yandex.ru or telegram @oorzhakau
 
 <h2> Github Stats </h2>
